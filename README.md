@@ -6,7 +6,6 @@
 <h2>📞 You can contact me here:</h2>
 
 <h4>• Telegram: @a252dev</h4>
-<h4>• Discord: a252dev</h4>
 
 <h2>👩‍💻 Languages</h2>
 
