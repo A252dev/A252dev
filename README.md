@@ -136,31 +136,7 @@
 ![vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
-### <a href="https://github.com/A252dev/Ebalo">6. Ebalo (Full-Stack)</a>
-
-<blockquote>Messenger with the ability to communicate between users. Authorization takes place via Cookie, live chat is made using AJAX requests.</blockquote>
-
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![mySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-<img src="./src/img/ebalo_maket.png" alt="Ebalo Maket" width="800px" />
-
-
-### <a href="https://github.com/A252dev/payser-branch">7. PaySer-branch (Front-End)</a>
-
-<blockquote>SPA application.</blockquote>
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-<img src="./src/img/payser_maket.png" alt="PaySer Maket" width="800px" />
-
-
-### <a href="https://github.com/A252dev/TGShop">8. TGShop (Telegram API)</a>
+### <a href="https://github.com/A252dev/TGShop">6. TGShop (Telegram API)</a>
 
 <blockquote>Automated bot store to sell your products. Product categories and automatic giveaway on purchase are present.</blockquote>
 
@@ -168,26 +144,5 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![mssql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-### <a href="https://github.com/A252dev/BlazorUFO">9. BlazorUFO (Front-End)</a>
-
-<blockquote>SPA application.</blockquote>
-
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-
-### <a href="https://github.com/A252dev/DiamondStealer">10. DiamondStealer</a>
-
-<blockquote>Telegram bot for buying a stiller. The stiller itself, an intermediate server and an admin server that handles passwords, cookies. After that, it gives the already expanded data.</blockquote>
-
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-### <a href="https://github.com/A252dev/MailSorter">11. MailSorter</a>
-
-<blockquote>A script that takes data from a txt file and sorts it by keyword, e.g. outlook.com.</blockquote>
-
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </details>
