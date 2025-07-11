@@ -1,6 +1,6 @@
 <h2>🚀 About Me</h2>
 
-<h4>• Developer </h4>
+<h4>• Middle Software Engineer</h4>
 <h4>• 3+ Years of commercial // freelance experience</h4>
 
 <h2>📞 You can contact me here:</h2>
