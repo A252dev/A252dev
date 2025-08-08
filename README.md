@@ -3,10 +3,6 @@
 <h4>• Middle Software Engineer</h4>
 <h4>• 3+ Years of commercial // freelance experience</h4>
 
-<h2>📞 You can contact me here:</h2>
-
-<h4>• Telegram: @a252dev</h4>
-
 <h2>👩‍💻 Languages</h2>
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
