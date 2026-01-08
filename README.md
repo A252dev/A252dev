@@ -1,6 +1,6 @@
 <h2>🚀 About Me</h2>
 
-<h3>Backend Developer with 4+ years of experience in building high-performance, scalable enterprise applications. Started as a PHP developer, transitioned to .NET backend, and now actively focusing on Java (Spring Boot) backend development.</h3>
+<h3>Backend developer with 4+ years of experience building scalable, high-performance enterprise applications. Primarily working with C#/.NET, experimenting with Java in personal projects.</h3>
 
 <h2>👩‍💻 Languages</h2>
 
