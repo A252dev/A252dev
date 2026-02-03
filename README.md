@@ -1,6 +1,6 @@
 <h2>🚀 About Me</h2>
 
-<h3>Backend developer with 4+ years of experience building scalable, high-performance enterprise applications within the C#/.NET ecosystem.</h3>
+<h3>Developer with 4+ years of experience building scalable, high-performance enterprise applications.</h3>
 
 <h2>👩‍💻 Languages</h2>
 
