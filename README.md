@@ -32,4 +32,14 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+PHP              22 hrs 8 mins         ██████████████████▒░░░░░░   73.27 %
+C#               3 hrs 8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+JSON             1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Makefile         1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+YAML             53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+```
+
+<!--END_SECTION:waka-->
