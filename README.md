@@ -31,15 +31,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!--START_SECTION:waka-->
-
-```txt
-Go                         19 hrs 8 mins         ███████████████████░░░░░░   75.42 %
-Makefile                   1 hr 54 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-YAML                       58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Other                      37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Text                       34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-```
-
-<!--END_SECTION:waka-->
