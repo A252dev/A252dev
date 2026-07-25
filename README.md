@@ -1,10 +1,10 @@
 # Software Engineer
 
-Backend-focused developer building APIs and web applications with C#/.NET.
+Backend-focused developer building APIs and web applications.
 
 **Stack:**  
 C#/.NET · ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · Docker · Kubernetes · AWS  
-React · TypeScript  
+Vue · TypeScript  
 PHP (Laravel, Symfony) — previous experience  
 MongoDB · ClickHouse · Neo4j
 
